@@ -1,0 +1,24 @@
+networking:
+  name: networking
+  description: Tutorials from scratch about how the world of internet communicates...
+  cover: assets/images/network.jpg
+programming:
+  name: programming
+  description: Writeups from scratch about programming stuffs...
+  cover: assets/images/program.jpg
+reverse-engineering:
+  name: reverse-engineering
+  description: Awesome writeups on reverse engineering, malware analysis, etc.
+  cover: assets/images/stuff.jpg
+beginner-series:
+  name: beginner-series
+  description: A beginner series for you to get on the track of hacking...
+  cover: assets/images/program.jpg
+binary-exploitation:
+  name: binary-exploitation
+  description: Writeups from scratch about exploiting binaries to the fullest...
+  cover: assets/images/ban.png
+documentation:
+  name: documentation
+  description: Writeups and documentations of tools released by our team...
+  cover: assets/images/pr.jpg

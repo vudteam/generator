@@ -1,0 +1,56 @@
+shivam-shrirao:
+  username: shivam-shrirao
+  name: Shivam Shrirao
+  location: India
+  url_full: https://www.ret2rop.com
+  url: www.ret2rop.com
+  bio: An cyber security researcher with master skills in binary exploitation tuned with heap and stack exploitation.
+  picture: assets/images/shivam.jpg
+  facebook: mregrey
+  twitter: shivamshrirao
+  cover: assets/images/sky.jpg
+biprodeep:
+  username: biprodeep
+  name: Biprodeep Roy
+  location: India
+  url_full: False
+  url: False
+  bio: A dedicated researcher on integrated logics, artificial intelligence, machine learning and information security.
+  picture: assets/images/biprodeep.jpg
+  facebook: biprodeep
+  twitter: virtualgh0st
+  cover: assets/images/bipro.jpg
+red-haxor:
+  username: red-haxor
+  name: Tuhin Subhra
+  location: India
+  url_full: False
+  url: False
+  bio: A cyber security enthusiast and a developer associated with web-application security.
+  picture: assets/images/tuhin.jpg
+  facebook: r3dhax0r
+  twitter: r3dhax0r
+  cover: assets/images/ope.jpg
+souhardya:
+  username: souhardya
+  name: Souhardya Sardar
+  location: India
+  url_full: False
+  url: False
+  bio: Full time malware junkie, a reverse engineering and Windows internals expert. Besides i am full time pervert and bad at shit posting :p.
+  picture: assets/images/souhardya.jpg
+  facebook: souhardyasardar.py
+  twitter: subversionzero
+  cover: assets/images/man.png
+theinfecteddrake:
+  username: theinfecteddrake
+  name: The Infected Drake
+  location: /dev/null
+  url_full: False
+  url: False
+  bio: A n00b, an active learner and enthusiast in web-application security.
+  picture: assets/images/tid.jpg
+  facebook: theinfecteddrake
+  twitter: infecteddrake
+  cover: assets/images/oi.jpg
+
